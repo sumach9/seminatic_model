@@ -150,7 +150,7 @@ def process_array(source, target, comparison, field):
     return merged
 
 # Usage
-API_KEY = "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"
+API_KEY = " "
 result = compare_education_records(
     "resume_data3.Json",
     "ground_truth3.json",
