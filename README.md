@@ -1,4 +1,4 @@
-# seminatic_model
+# similarity_model
 checking similarity between two json files 
 import json
 from openai import OpenAI
